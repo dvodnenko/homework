@@ -1,0 +1,3 @@
+# django homework
+
+### django rest 😴
